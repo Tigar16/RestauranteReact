@@ -4,7 +4,7 @@ const Footer = () => {
   return (
         <div  className="container bg-dark text-white mt-4">
 
-            <div  className="row p-4">
+            <div  className="git pull originrow p-4">
 
               <div className="col-12 col-md-6 text-white text-end" >
                
