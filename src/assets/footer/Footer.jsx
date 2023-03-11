@@ -12,7 +12,7 @@ const Footer = () => {
                         <p className="text-end">Medellín</p>
                         <p className="text-end">Juandanduquia13@outlook.es</p>
                         <p className="text-end">Tel: 3113716771</p>
-                        <p className="text-end">09/03/2023</p>
+                        <p className="text-end">11/03/2023</p>
                       </div>
                       <div className="col-12 col-md-6 text-start border-start ">
                         <p>Sigueme en mis redes sociales como :</p>
