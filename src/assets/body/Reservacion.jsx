@@ -57,6 +57,7 @@ const Form = () => {
     await deleteDoc(doc(db, 'comensales', id));
     getData();
   };
+  
   const editDoc = async (id) => {
     await editDoc(doc(db, 'comensales', id));
     getData();

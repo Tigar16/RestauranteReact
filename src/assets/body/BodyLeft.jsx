@@ -8,7 +8,7 @@ const Body = () => {
       </div>
       <div className="bodyCaja">
         <h1>Pandingas</h1>
-        <p>
+        <p className="bodyText">
         El mejor sabor en su mesa
         Pandingas es una empresa dedicada a la actividad alimenticia. 
         Su gestión empresarial, basada en la excelencia y orientación al cliente, 
